@@ -1,0 +1,61 @@
+[Cat{status: 
+      verified: "true"
+      feedback: ""
+      sentCount: "1"
+ _id: "5887e1d85c873e0011036889"
+ user: "5a9ac18c7478810ea6c06381"
+ text: "Cats make about 100 different sounds. Dogs make only about 10."
+ _v: "0"
+ source: "user"
+ type: "cat"
+ deleted: "false"
+ used: "true"}
+, Cat{status: 
+      verified: "true"
+      feedback: "null"
+      sentCount: "1"
+ _id: "588e746706ac2b00110e59ff"
+ user: "588e6e8806ac2b00110e59c3"
+ text: "Domestic cats spend about 70 percent of the day sleeping and 15 percent of the day grooming."
+ _v: "0"
+ source: "user"
+ type: "cat"
+ deleted: "false"
+ used: "true"}
+, Cat{status: 
+      verified: "true"
+      feedback: "null"
+      sentCount: "1"
+ _id: "58923f2fc3878c0011784c79"
+ user: "5887e9f65c873e001103688d"
+ text: "I don't know anything about cats."
+ _v: "0"
+ source: "user"
+ type: "cat"
+ deleted: "false"
+ used: "false"}
+, Cat{status: 
+      verified: "true"
+      feedback: "null"
+      sentCount: "1"
+ _id: "5894af975cdc7400113ef7f9"
+ user: "5a9ac18c7478810ea6c06381"
+ text: "The technical term for a cat’s hairball is a bezoar."
+ _v: "0"
+ source: "user"
+ type: "cat"
+ deleted: "false"
+ used: "true"}
+, Cat{status: 
+      verified: "true"
+      feedback: "null"
+      sentCount: "1"
+ _id: "58e007cc0aac31001185ecf5"
+ user: "58e007480aac31001185ecef"
+ text: "Cats are the most popular pet in the United States: There are 88 million pet cats and 74 million dogs."
+ _v: "0"
+ source: "user"
+ type: "cat"
+ deleted: "false"
+ used: "false"}
+]
